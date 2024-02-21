@@ -20,9 +20,9 @@ export default function App() {
               </section>
               <section>
                   <h3>Next Step</h3>
-                  <Button>Click One</Button>
-                  <Button>Click Two</Button>
-                  <Button>Click Three</Button>
+                  <Button>Click One!</Button>
+                  <Button>Click Two!</Button>
+                  <Button>Click Three!</Button>
               </section>
           </main>
       </div>
