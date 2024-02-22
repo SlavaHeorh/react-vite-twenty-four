@@ -20,3 +20,9 @@ export const ways = [
         description: 'Way to SCSS',
     },
 ]
+
+export const differences = {
+    way: 'Way to learn',
+    easy: 'easy learning',
+    program: 'the path to simple programming',
+}
